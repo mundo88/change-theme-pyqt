@@ -1,3 +1,9 @@
+
+#navbar,#navMove,#navButton {
+    background-color: rgb(32, 31, 31);
+}
+
+
 QProgressBar:horizontal {
     border: 1px solid #3A3939;
     text-align: center;

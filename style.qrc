@@ -2,9 +2,16 @@
   <qresource prefix="/dark_blue">
     <file>img/up_arrow_disabled.png</file>
     <file>img/Hmovetoolbar.png</file>
+    <file>img/icon_close.png</file>
+    <file>img/icon_maximize.png</file>
+    <file>img/icon_minimize.png</file>
     <file>img/stylesheet-branch-end.png</file>
+    <file>img/icon_close.png</file>
+    <file>img/icon_maximize.png</file>
+    <file>img/icon_minimize.png</file>
     <file>img/branch_closed-on.png</file>
     <file>img/moon.png</file>
+    <file>img/fb.png</file>
     <file>img/sun.png</file>
     <file>img/stylesheet-vline.png</file>
     <file>img/branch_closed.png</file>
